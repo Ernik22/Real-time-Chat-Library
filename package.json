@@ -1,20 +1,23 @@
 {
-  "name": "realtimechatlibrary", 
-  "version": "1.0.0", 
-  "description": "by ernik", 
+  "name": "realtimechatlibrary1",
+  "version": "1.0.1",
+  "description": "by ernik",
   "main": "./src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Ernik22/Real-time-Chat-Library.git" 
+    "url": "https://github.com/Ernik22/Real-time-Chat-Library.git"
   },
-  "keywords": [ 
-    "", 
+  "keywords": [
+    "",
     "",
     ""
   ],
-  "author": "ern1k22", 
-  "license": "MIT"
+  "author": "ern1k22",
+  "license": "MIT",
+  "dependencies": {
+    "pdfgenerationtoolkit2": "^1.0.0"
+  }
 }
